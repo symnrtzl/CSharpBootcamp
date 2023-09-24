@@ -23,7 +23,7 @@ namespace LinqProject
 
             };
 
-            Console.WriteLine("Algoritmitk----");
+            Console.WriteLine("Algoritmik----");
 
             foreach(var product in products) 
             {

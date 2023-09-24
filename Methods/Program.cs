@@ -13,7 +13,7 @@ namespace Methods
 
             Product product2 = new Product();
             product2.Name = "Karpuz";
-            product2.Description = "Diuarbakır Karpuzu";
+            product2.Description = "Diyarbakır Karpuzu";
             product2.Price = 70;
 
             Product[] products = new Product[] { product1, product2 };
